@@ -1,0 +1,19 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/Matteo/Documents/Personale/Scala/Coursera/Lesson02/recfun/src/main/scala/recfun/Main.scala:18:12: a is already defined as value a[0m
+[0m[[0m[31merror[0m] [0m[0m			case (a,a) => 1[0m
+[0m[[0m[31merror[0m] [0m[0m			        ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/Matteo/Documents/Personale/Scala/Coursera/Lesson02/recfun/src/main/scala/recfun/Main.scala:18:18: a pure expression does nothing in statement position[0m
+[0m[[0m[33mwarn[0m] [0m[0m			case (a,a) => 1[0m
+[0m[[0m[33mwarn[0m] [0m[0m			              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/Matteo/Documents/Personale/Scala/Coursera/Lesson02/recfun/src/main/scala/recfun/Main.scala:20:4: missing parameter type[0m
+[0m[[0m[31merror[0m] [0m[0m			_ => pascal(c-1,r-1)+pascal(c,r-1)[0m
+[0m[[0m[31merror[0m] [0m[0m			^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/Matteo/Documents/Personale/Scala/Coursera/Lesson02/recfun/src/main/scala/recfun/Main.scala:20:31: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Unit[0m
+[0m[[0m[31merror[0m] [0m[0m required: String[0m
+[0m[[0m[31merror[0m] [0m[0m			_ => pascal(c-1,r-1)+pascal(c,r-1)[0m
+[0m[[0m[31merror[0m] [0m[0m			                           ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/Matteo/Documents/Personale/Scala/Coursera/Lesson02/recfun/src/main/scala/recfun/Main.scala:19:18: a pure expression does nothing in statement position; multiline expressions might require enclosing parentheses[0m
+[0m[[0m[33mwarn[0m] [0m[0m			case (0,a) => 1[0m
+[0m[[0m[33mwarn[0m] [0m[0m			              ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mtwo warnings found[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m
